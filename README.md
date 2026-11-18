@@ -1,4 +1,6 @@
-# custom-editor
+# Custom Editor
+
+**Lightweight rich-text editor for PHP & Laravel**
 
 A dependency-free rich-text (WYSIWYG) editor for PHP projects: plain JavaScript and CSS in the browser, plus a few small PHP files for uploads and HTML sanitizing. It turns any `<textarea>` into an editor, so it fits into a normal form in **plain PHP**, **Laravel**, or any other PHP project, and you can use it as many times as you like on a page.
 
